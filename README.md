@@ -3,7 +3,7 @@
 <!--
 **klcadima/klcadima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-###Some info on me...🙃 
+### Some info on me...🙃 
 
 I am advocate and enthusiast for open-source, blockchain technology, open finance, and being a good person ✌️
 
@@ -16,7 +16,7 @@ When I'm not emailing you about a new job, I'm reading through project documenta
 - 💬 Ask me about what roles I'm hiring for or for help hiring for your team
 - 📫 How to reach me: ken@mynrtalent.com
 
-###🔗 Links:
+### 🔗 Links:
 [LinkedIn](https://www.linkedin.com/in/kcadima/)
 [Twitter](https://twitter.com/ken_cadima)
 [Website](https://www.mynrtalent.com/)
