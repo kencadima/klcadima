@@ -14,7 +14,7 @@ When I'm not emailing you about a new job, I'm reading through project documenta
 - 🌱 I’m currently learning Rust, Javascript, and Solidity
 - 👯 I’m looking to collaborate on anything in the Polkadot or Ethereum ecosystem 
 - 💬 Ask me about what roles I'm hiring for or for help building your team
-- 📫 How to reach me: ken@mlayer2talent.com
+- 📫 How to reach me: ken@layer2talent.com
 
 ### 🔗 Links:
 - [LinkedIn](https://www.linkedin.com/in/kcadima/)
