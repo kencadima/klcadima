@@ -20,3 +20,4 @@ When I'm not emailing you about a new job, I'm reading through project documenta
 - [LinkedIn](https://www.linkedin.com/in/kcadima/)
 - [Twitter](https://twitter.com/ken_cadima)
 - [Website](https://www.layer2talent.com/)
+- [OpenSea](https://opensea.io/sourcerer)
