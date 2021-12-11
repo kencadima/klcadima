@@ -1,7 +1,7 @@
 ### Hi there, I'm Ken 👋
 
 <!--
-**klcadima/klcadima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kencadima/klcadima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ### Some info on me...🙃 
 
